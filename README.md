@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @puntasticleem, People call me - "Nikhil Bhawsar"
+### Welcome! 😄
+
+- 👋 Hi, I’m "Nikhil Bhawsar"
 - 👀  Working as an iOS Developer for Microsoft
+- ❤️ Love - Swift, iOS
 - 🌱  I’m currently learning --> It is NeverEnding process honestly. But keeping myself updated with "Swift" and "more of iOS"
-<!--- - 📫 How to reach me ---> 
-<!---
-puntasticleem/puntasticleem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![](https://github-readme-stats.vercel.app/api?username=nikhilbhawsar&show_icons=true)
